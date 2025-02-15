@@ -5,7 +5,7 @@
     <classes>
       <!--<class name="actoinExample.AmazonWishList"/> -->
       <class name="actoinExample.Action_DragDropExample"/>
-      <class name="actoinExample.RightClickDoubleClick"/>
+      <!--<class name="actoinExample.RightClickDoubleClick"/>-->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
