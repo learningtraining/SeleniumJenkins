@@ -61,7 +61,7 @@ public class Action_DragDropExample {
 		Actions act = new Actions(driver);
 		
 		//app1
-		act.dragAndDrop(img3, trash).perform();
+		//act.dragAndDrop(img3, trash).perform();
 		
 		
 		Thread.sleep(2000);
